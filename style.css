@@ -65,6 +65,11 @@ li a:hover{
   max-width:65rem;
 }
 
+.swiper{
+  max-width: 60rem;
+  margin: 0 auto;
+}
+
 .swiper img {
   max-height: 2rem;
   object-fit: cover;
@@ -175,6 +180,7 @@ section{
 
 iframe{
   width: 100%;
+  max-width: 60rem;
 }
 
 #work-and-family{
